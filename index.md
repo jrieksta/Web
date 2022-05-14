@@ -1,4 +1,4 @@
-## JR website test
+## JR website test part 2
 
 You can use the [editor on GitHub](https://github.com/jrieksta/Web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 
 ## Header 2
 ### Header 3
 
@@ -28,6 +28,9 @@ Syntax highlighted code block
 ```
 ![Fieldwork 2018, Tromsø](https://user-images.githubusercontent.com/36596426/168426174-5b4d4160-6cf5-4479-be54-f66a543966ee.jpg)
 Fieldwork Tromsø
+
+![20180711_232006](https://user-images.githubusercontent.com/36596426/168427142-0b1e6765-01e8-4915-a35f-8616d1eab357.jpg)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
