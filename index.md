@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 ```
-![IMG_20180811_101308](https://user-images.githubusercontent.com/36596426/168426174-5b4d4160-6cf5-4479-be54-f66a543966ee.jpg)
+![Fieldwork 2018, Tromsø](https://user-images.githubusercontent.com/36596426/168426174-5b4d4160-6cf5-4479-be54-f66a543966ee.jpg)
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
